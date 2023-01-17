@@ -1,1 +1,1 @@
-# corech
+# Church Management System
