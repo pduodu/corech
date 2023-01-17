@@ -1,1 +1,1 @@
-# Church Management System
+#The Group Manager
